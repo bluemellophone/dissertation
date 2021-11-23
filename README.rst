@@ -120,6 +120,12 @@ Alternatively, the defense presentation can be watched on YouTube.
     :target: https://youtu.be/9Jon08QtenY
     :alt: Watch Ph.D. defense presentation
 
+Animal Photographic Censusing Process Overview
+----------------------------------------------
+
+.. image:: https://github.com/bluemellophone/dissertation/raw/main/process.jpg
+    :alt: Animal photographic censusing process Gantt chart
+
 How to Cite
 -----------
 
